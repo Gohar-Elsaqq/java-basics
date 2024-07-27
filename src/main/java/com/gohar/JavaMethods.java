@@ -6,11 +6,17 @@ public class JavaMethods {
         String name = "gohar";
         hello(name);
         hello();
+       int z= add(3,5);
+        System.out.println(z);
     }
     static void hello(){
         System.out.println("hello :");
     }
      static void hello(String name){
         System.out.println("hello : " + name);
+    }
+    static int add(int a, int b){
+        return  a+b;
+
     }
 }
