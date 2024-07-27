@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/../Encapsulation" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../Inheritance" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../Polymorphism" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../logicalOperators" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../switch" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../while_loop" vcs="Git" />
   </component>
 </project>
